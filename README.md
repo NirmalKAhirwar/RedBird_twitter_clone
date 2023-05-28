@@ -78,9 +78,9 @@ app will be running at http://localhost:3000
 ## Authors
 
 - [@nirmalkahirwar](https://www.github.com/nirmalkahirwar)
-- [@naitik](https://www.github.com/nirmalkahirwar)
-- [@rishu](https://www.github.com/nirmalkahirwar)
-- [@praful](https://www.github.com/nirmalkahirwar)
+- [@naitik](https://github.com/naitikraj12935)
+- [@rishu]()
+- [@praful]((https://github.com/CsePraful)
 
 ## License
 
