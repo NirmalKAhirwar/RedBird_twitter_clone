@@ -2,7 +2,7 @@ const multer = require("multer");
 const sharp = require("sharp");
 const multerStorage = multer.memoryStorage();
 const path = require("path");
-const { v4: uuidv4 } = require("uuid"); // For grnerating a unique name for uploaded files
+const { v4: uuidv4 } = require("uuid"); // For generating a unique name for uploaded files
 
 /* This is a Middleware function to filter the uploaded files, 
 we have used multer in reactogram as well Most of the code is in referenced to that, 
